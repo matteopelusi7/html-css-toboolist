@@ -28,5 +28,35 @@ main {
     width: 1000px;
     margin: 0 auto;
     margin-top: 70px;
-    border-radius: 1%;
+    border-radius: 7px;
+}
+
+.nav {
+    border-radius: 7px;
+}
+
+.button-task {
+    background-color: rgb(21, 180, 243);
+    color: white;
+    width: 100px;
+    border-radius: 7px;
+    padding: 8px;
+    margin-top: 20px;
+    margin-left: 50px;
+    display: inline-block;
+    border: none;
+}
+
+.button-section {
+    color: lightgrey;
+    width: 100px;
+    border-radius: 7px;
+    padding: 8px;
+    margin-top: 20px;
+    border: 1px solid lightgrey;
+}
+
+hr {
+    margin-top: 10px;
+    color: lightgrey;
 }
